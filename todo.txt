@@ -1,0 +1,19 @@
+
+
+
+
+> create a test script to test a physical (non-memory) database and check how
+  the database schema is and what happens when you add PT's and OT's
+
+> Therapist - Resident relationship:
+  Resident has a PT and an OT
+  Physical Therapist has residents
+  Occupational Therapist as residents
+
+
+> setup SQLAlchemy environment
+
+
+
+
+

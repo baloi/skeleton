@@ -1,0 +1,27 @@
+> why sqlalchemy is awesome
+  - https://speakerdeck.com/mitsuhiko/why-sqlalchemy-is-awesome
+
+> py.test for sqlalchemy models
+  http://alextechrants.blogspot.com/2013/08/unit-testing-sqlalchemy-apps.html 
+
+> xdist : pytest distributed testing
+  $ pip install pytest-xdist
+  $ py.test -f (running tests on looponfailing mode)
+
+> branching and merging in git
+  http://git-scm.com/book/en/Git-Branching-Basic-Branching-and-Merging
+
+> Did this:
+
+    $ git checkout -b web
+
+
+    $ vim howto.txt
+
+    $ git commit -a -m 'howto changed'
+
+    $ git checkout master
+
+    $ git merge web
+
+    $ git push
